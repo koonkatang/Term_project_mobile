@@ -1,0 +1,34 @@
+[
+  { "name": "Sayu",
+    "type": "4",
+    "banner": "1"
+  },
+  { "name": "Diona",
+    "type": "4",
+    "banner": "1"
+  },
+  { "name": "Xinyan",
+    "type": "4",
+    "banner": "1"
+  },
+  { "name": "Charlotte",
+    "type": "4",
+    "banner": "2"
+  },
+  { "name": "Beidou",
+    "type": "4",
+    "banner": "2"
+  },
+  { "name": "Collei",
+    "type": "4",
+    "banner": "2"
+  },
+  { "name": "Yoimiya",
+  "type": "5",
+    "banner": "1"
+  },
+  { "name": "Furina",
+  "type": "5",
+    "banner": "2"
+  }
+]
